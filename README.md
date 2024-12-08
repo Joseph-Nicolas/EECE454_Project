@@ -1,4 +1,2 @@
 # EECE454_Project
-Hey guys, please upload just the .ipynb files in the repository and that's all.
-Upload them so I and you also can read or run code from the others.
-We will share this with the professor later.
+This is where all the datasets, and the jupyter notebooks are stored.
