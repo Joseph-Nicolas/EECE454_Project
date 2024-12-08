@@ -1,0 +1,391 @@
+﻿Store code,Taxi Rank Name - English,District/Community - English,Taxi Rank Name - Arabic,District/Community - Arabic,Latitude,Longitude,Primary category
+TXR_001,"RTA Taxi Rank - Al Mamzar, Century Mall",Al Mamzer,"مواقف مركبات الأجرة الممزر، سنشري مول",الممزر,25.289638,55.346959,Taxi stand
+TXR_002,"RTA Taxi Rank Hor Al Anz East, Abu Hail Center",Hor Al Anz East,مواقف مركبات الأجرة هور العنز شرق مركز ابو هيل,هور العنز شرق,25.278079,55.346062,Taxi stand
+TXR_003,"RTA Taxi Rank Al Nahda -1, Al Mulla Plaza","Al Nahda -1,","مواقف مركبات الأجرة النهدة -1 ، الملا بلازا","النهدة -1 ،",25.281348,55.357134,Taxi stand
+TXR_004,"RTA Taxi Rank Al Qusais -1, Al Bustan Center",Al Qusais -1,"مواقف مركبات الأجرة القصيص -1 ، مركز البستان",القصيص -1,25.274128,55.367975,Taxi stand
+TXR_005,"RTA Taxi Rank Al Tawar -1, Union Coop Society",Al Tawar -1,مواقف مركبات الأجرة الطوار -1 جمعية الاتحاد التعاونية,الطوار -1,25.2716,55.371133,Taxi stand
+TXR_006,"RTA Taxi Rank Mirdif, West Zone",Mirdif,"مواقف مركبات الأجرة مردف ، ويست زون",مردف,25.231387,55.418266,Taxi stand
+TXR_007,"RTA Taxi Rank Al Rashidiya, Al Rashidiya Clinic",Al Rashidiya,"مواقف مركبات الأجرة الراشدية ، عيادة الراشدية",الراشدية,25.223434,55.393314,Taxi stand
+TXR_008,"RTA Taxi Rank Al Warqa -1, Al Mass Supermarket",Al Warqa'A -1,"مواقف مركبات الأجرة الورقاء -1 ، سوبر ماركت الماس",الورقاء -1,25.193895,55.406168,Taxi stand
+TXR_009,"RTA Taxi Rank Al Garhoud, Emirates Co op Socity",Al Garhoud,"مواقف مركبات الأجرة القرهود ، جمعية الإمارات التعاونية",القرهود,25.243703,55.346579,Taxi stand
+TXR_010,"RTA Taxi Rank Al Muraqqbat, Al Ghurair City A",Al Muraqqbat,"مواقف مركبات الأجرة المرقبات ، مدينة الغرير أ",المرقبات,25.266924,55.317057,Taxi stand
+TXR_011,"RTA Taxi Rank Al Muraqqbat, Al Ghurair City B",Al Muraqqbat,"مواقف مركبات الأجرة المرقبات ، مدينة الغرير ب",المرقبات,25.268534,55.317864,Taxi stand
+TXR_012,"RTA Taxi Rank Riggat Al Buteen, Hilton Dubai Creek",Riggat Al Buteen,"مواقف مركبات الأجرة رقة البطين ، هيلتون، خور دبي",رقة البطين,25.259693,55.318158,Taxi stand
+TXR_013,"RTA Taxi Rank Naif, Al Sabkha Bus Station A",Naif,"مواقف مركبات الأجرة نايف ، محطة حافلات السبخة أ",نايف,25.270854,55.302616,Taxi stand
+TXR_014,"RTA Taxi Rank Naif, Al Sabkha Bus Station B",Naif,"مواقف مركبات الأجرة نايف ، محطة حافلات السبخة ب",نايف,25.269326,55.303329,Taxi stand
+TXR_015,"RTA Taxi Rank Umm Hurair - 2, Raffles Hotel",Umm Hurair - 2,"مواقف مركبات الأجرة أم هرير - 2 ، فندق رافلز",أم حرير - 2,25.227824,55.321251,Taxi stand
+TXR_016,"RTA Taxi Rank Umm Hurair - 2, Holy Trinity Church",Umm Hurair - 2,"مواقف مركبات الأجرة أم هرير - 2 ، كنيسة",أم حرير - 2,25.237818,55.317215,Taxi stand
+TXR_017,"RTA Taxi Rank Al Karama, Lu Lu Center",Al Karama,"مواقف مركبات الأجرة الكرامة ، مركز لو لو",الكرامة,25.243711,55.304608,Taxi stand
+TXR_018,"RTA Taxi Rank Al Raffa, New Gold Center Building",Al Raffa,"مواقف مركبات الأجرة الرفاعة ، مبنى مركز الذهب الجديد",الرفاعة,25.251212,55.282122,Taxi stand
+TXR_019,"RTA Taxi Rank Jumeirah - 1, The One Jumeirah Theatre",Jumeirah - 1,"مواقف مركبات الأجرة جميرا - 1 ، مركز ذا ون",جميرا - 1,25.233261,55.265126,Taxi stand
+TXR_020,"RTA Taxi Rank Jumeirah - 3, Union Co-op Society",Jumeirah - 3,"مواقف مركبات الأجرة جميرا - 3 ، جمعية الاتحاد التعاونية",جميرا - 3,25.187211,55.238977,Taxi stand
+TXR_021,"RTA Taxi Rank Al Safa - 1, Al Safa Center - Park N Shop",Al Safa - 1,مواقف مركبات الأجرة الصفا - 1 - مركز الصفا - بارك ان شوب,الصفا - 1,25.177385,55.234333,Taxi stand
+TXR_022,"RTA Taxi Rank Umm Suqeim - 2, Choithram Supermarket",Umm Suqeim - 2,"مواقف مركبات الأجرة أم سقيم - 2 ، سوبر ماركت شويترام",أم سقيم - 2,25.147089,55.209721,Taxi stand
+TXR_023,"RTA Taxi Rank Umm Suqeim - 2, Umm Suqeim Park",Umm Suqeim - 2,"مواقف مركبات الأجرة أم سقيم - 2 ، حديقة أم سقيم",أم سقيم - 2,25.148026,55.195099,Taxi stand
+TXR_024,"RTA Taxi Rank Umm Suqeim - 3, Jumeirah Beach Hotel",Umm Suqeim - 3,"مواقف مركبات الأجرة أم سقيم - 3 ، فندق شاطئ جميرا",أم سقيم - 3,25.141396,55.191039,Taxi stand
+TXR_025,"RTA Taxi Rank Umm Suqeim - 3, Mina Al Salam Hotel",Umm Suqeim - 3,مواقف مركبات الأجرة أم سقيم - 3 فندق ميناء السلام,أم سقيم - 3,25.133657,55.187815,Taxi stand
+TXR_026,"RTA Taxi Rank Al Qouz Ind. 3, Bur Dubai",Al Qouz Ind. 3,"مواقف مركبات الأجرة القوز الصناعية 3 ، شرطة المرور، بر دبي",القوز الصناعية 3,25.124628,55.205817,Taxi stand
+TXR_027,"RTA Taxi Rank Business Bay, Downtown Burj Dubai - Building 3",Business Buy,"مواقف مركبات الأجرة الخليج التجاري، وسط مدينة برج دبي - مبنى 3",الخليج التجاري,25.189962,55.280704,Taxi stand
+TXR_028,"RTA Taxi Rank Dubai Al Ain Road, Dubai Outlet Mall",Dubai Al Ain Road,"مواقف مركبات الأجرة طريق دبي العين ، دبي أوتلت مول",طريق دبي العين,25.073034,55.400682,Taxi stand
+TXR_029,"RTA Taxi Rank Emirates Hills - 3, Town Center Spinneys Mall",Emirates Hills - 3,"مواقف مركبات الأجرة تلال الإمارات - 3 ، تاون سنتر سبينس مول",تلال الإمارات - 3,25.053793,55.170925,Taxi stand
+TXR_030,RTA Taxi Rank Emirates Hills Second (Emaar Buildings) Emaar Business Park Buildings,Emirates Hills Second ,مواقف مركبات الأجرة تلال الإمارات الثانية (مباني إعمار) مباني إعمار بزنس بارك,تلال الإمارات الثانية,25.095254,55.166918,Taxi stand
+TXR_031,RTA Taxi Rank Arabian Ranches Community Center,Arabian Ranches,"مواقف مركبات الأجرة المرابع ، مركز المرابع العربية",المرابع العربية,25.05711,55.271085,Taxi stand
+TXR_032,RTA Taxi Rank Al Barsha Mall ,Al Barsha 2,مواقف مركبات الأجرة البرشاء مول,البرشاء 2,25.098519,55.205362,Taxi stand
+TXR_033,RTA Taxi Rank Al Reef Mall ,Al Reef Mall ,مواقف مركبات الأجرة الريف مول,الريف مول,25.270147,55.322401,Taxi stand
+TXR_034,RTA Taxi Rank Al Mamzar Park ,Al Mamzar Park ,مواقف مركبات الأجرة حديقة الممزر,حديقة الممزر,25.317703,55.347751,Taxi stand
+TXR_035,RTA Taxi Rank Madina Mall ,Madina Mall ,مواقف مركبات الأجرة مدينة مول,مدينة مول,25.281958,55.39761,Taxi stand
+TXR_036,RTA Taxi Rank Opp. Amwaj Rotana ,Dubai Marina,مواقف مركبات الأجرة مقابل أمواج روتانا,مرسى دبي,25.073294,55.130559,Taxi stand
+TXR_037,RTA Taxi Rank Sofitel,Dubai Marina,مواقف مركبات الأجرة سوفيتيل,مرسى دبي,25.075571,55.131841,Taxi stand
+TXR_038,RTA Taxi Rank Opp. Le Royal Meridien ,Dubai Marina,مواقف مركبات الأجرة مقابل لو رويال ميريديان,مرسى دبي,25.090815,55.147777,Taxi stand
+TXR_039,RTA Taxi Rank Opp. Al Habtoor Grand Hotel,Dubai Marina,مواقف مركبات الأجرة مقابل فندق الحبتور جراند,مرسى دبي,25.085849,55.14174,Taxi stand
+TXR_040,RTA Taxi Rank Opp. Grand Residence A,Dubai Marina,مواقف مركبات الأجرة مقابل جراند ريزيدانس أ,مرسى دبي,25.083523,55.140719,Taxi stand
+TXR_041,RTA Taxi Rank Opp. Grand Residence B,Dubai Marina,مواقف مركبات الأجرة مقابل جراند ريزيدانس ب,مرسى دبي,25.083249,55.140057,Taxi stand
+TXR_042,RTA Taxi Rank Opp. Sukoon Tower,Dubai Marina,مواقف مركبات الأجرة مقابل برج سوكون,مرسى دبي,25.078832,55.144072,Taxi stand
+TXR_043,RTA Taxi Rank Opp. Tram Number 6 ,Dubai Marina,مواقف مركبات الأجرة مقابل الترام رقم 6,مرسى دبي,25.086546,55.149696,Taxi stand
+TXR_044,"RTA Taxi Rank Qusais, Lulu Hypermarket",Qusais,"مواقف مركبات الأجرة القصيص ، لولو هايبر ماركت",القصيص,25.279075,55.361808,Taxi stand
+TXR_045,"RTA Taxi Rank Jumeirah Road, Wild Wadi",Umm Suqeim - 3,"مواقف مركبات الأجرة طريق جميرا ، وايلد وادي",أم سقيم - 3,25.138518,55.189277,Taxi stand
+TXR_046,RTA Taxi Rank Mall Of Emirates,Al Barsha 1,مواقف مركبات الأجرة مول الامارات,البرشاء 1,25.118107,55.200608,Taxi stand
+TXR_047,RTA Taxi Rank Burjman Centre A,Al Mankhool ,مواقف مركبات الأجرة مركز برجمان أ,المنخول,25.252189,55.302387,Taxi stand
+TXR_048,RTA Taxi Rank City Centre Deira,Port Saeed,مواقف مركبات الأجرة سيتي سنتر ديرة,ميناء سعيد,25.250858,55.332997,Taxi stand
+TXR_049,RTA Taxi Rank Festival City Mall,Al Kheeran,مواقف مركبات الأجرة فستيفال سيتي مول,الخيران,25.224273,55.351796,Taxi stand
+TXR_050,RTA Taxi Rank Dubai Marina Mall,Dubai Marina,مواقف مركبات الأجرة دبي مارينا مول,مرسى دبي,25.07643,55.140504,Taxi stand
+TXR_051,RTA Taxi Rank Dubai Mall,Burj Khalifa,مواقف مركبات الأجرة مول دبي,برج خليفة,25.197642,55.27871,Taxi stand
+TXR_052,RTA Taxi Rank Dragon Mart,Warsan 2,مواقف مركبات الأجرة سوق التنين,ورسان 2,25.17376,55.413906,Taxi stand
+TXR_053,RTA Taxi Rank City Centre Me'aisem,Me'Aisem First,مواقف مركبات الأجرة سيتي سنتر معيصم,معيصم 1,25.039963,55.197361,Taxi stand
+TXR_054,RTA Taxi Rank Mercato Shopping Centre,Jumeriah First,مواقف مركبات الأجرة مركز تسوق ميركاتو,جميرا 1,25.217066,55.252515,Taxi stand
+TXR_055,RTA Taxi Rank City Centre Mirdif,Mirdif,مواقف مركبات الأجرة سيتي سنتر مردف,مردف,25.215272,55.409446,Taxi stand
+TXR_056,RTA Taxi Rank Bin Sougat Shopping Centre,Rashidiya,مواقف مركبات الأجرة مركز بن سوقات للتسوق,الراشدية,25.232951,55.385168,Taxi stand
+TXR_057,RTA Taxi Rank Ibn Batutta Mall Metro Station,Jabal Ali First,مواقف مركبات الأجرة محطة مترو ابن بطوطة مول,جبل علي الاول,25.045643,55.117669,Taxi stand
+TXR_058,RTA Taxi Rank Wafi Mall,Umm Hurair 2,مواقف مركبات الأجرة وافي مول,أم هرير 2,25.229532,55.319248,Taxi stand
+TXR_059,RTA Taxi Rank Dubai Outlet Village,Saih Shuaib 1,مواقف مركبات الأجرة دبي اوت لت فيليدج,سيح شعيب 1,24.914563,55.011472,Taxi stand
+TXR_060,RTA Taxi Rank Rashidiya Metro Station A,Rashidiya,مواقف مركبات الأجرة محطة مترو الراشدية أ,الراشدية,25.229938,55.391317,Taxi stand
+TXR_061,RTA Taxi Rank Rashidiya Metro Station B,Rashidiya ,مواقف مركبات الأجرة محطة مترو الراشدية ب,الراشدية,25.229243,55.390997,Taxi stand
+TXR_062,RTA Taxi Rank Al Rigga Metro Station A,Al Muraqqabat,مواقف مركبات الأجرة محطة مترو الرقة أ,المرقبات,25.263424,55.323447,Taxi stand
+TXR_063,RTA Taxi Rank Union Metro Station,Al Rigga,مواقف مركبات الأجرة محطة مترو الاتحاد,الرقة,25.266278,55.315183,Taxi stand
+TXR_064,RTA Taxi Rank Burjuman Metro Station D,Al Hamriya,مواقف مركبات الأجرة محطة مترو برجمان د,الحمرية,25.255438,55.304969,Taxi stand
+TXR_065,RTA Taxi Rank ADCB Metro Station Seaside,Mankhool,مواقف مركبات الأجرة محطة مترو بنك ابوظبي التجاري شمال,منخول,25.245147,55.298246,Taxi stand
+TXR_066,RTA Taxi Rank ADCB Metro Station Landside,Karama Area,مواقف مركبات الأجرة محطة مترو بنك ابوظبي التجاري جنوب,منطقة الكرامة,25.245274,55.298922,Taxi stand
+TXR_067,RTA Taxi Rank Max Metro Station Seaside,Al Jafiliya,مواقف مركبات الأجرة محطة مترو ماكس شمال,الجافلية,25.233136,55.290629,Taxi stand
+TXR_068,RTA Taxi Rank Max Metro Station Landside B,Al Kifaf,مواقف مركبات الأجرة محطة مترو ماكس جنوب,الكفاف,25.231416,55.292624,Taxi stand
+TXR_069,RTA Taxi Rank World Trade Centre Metro Station Seaside,Trade Center First,مواقف مركبات الأجرة محطة مترو مركز التجاري شمال,المركز التجاري 1,25.224631,55.283507,Taxi stand
+TXR_070,RTA Taxi Rank World Trade Centre Metro Station Landside,Trade Center Second,مواقف مركبات الأجرة محطة مترو مركز التجاري جنوب,المركز التجاري 2,25.225808,55.285875,Taxi stand
+TXR_071,RTA Taxi Rank Emirates Towers Metro Station Landside,Trade Center Second,مواقف مركبات الأجرة محطة مترو أبراج الإمارات شمال,المركز التجاري 2,25.216855,55.280354,Taxi stand
+TXR_072,RTA Taxi Rank Financial Centre Metro Station Seaside,Sheikh Zayed Service Road,مواقف مركبات الأجرة محطة مترو المركز المالي شمال,شارع الشيخ زايد,25.211724,55.274838,Taxi stand
+TXR_073,RTA Taxi Rank Financial Centre Metro Station Landside,Trade Center Second,مواقف مركبات الأجرة محطة مترو المركز المالي جنوب,المركز التجاري 2,25.211297,55.276043,Taxi stand
+TXR_074,RTA Taxi Rank Burj Khalifa/ Dubai Mall Metro Station Seaside,Al Wasl,مواقف مركبات الأجرة برج خليفة / محطة مترو دبي مول شمال,الوصل,25.201958,55.268139,Taxi stand
+TXR_075,RTA Taxi Rank Burj Khalifa/ Dubai Mall Metro Station Landside A,Burj Khalifa,مواقف مركبات الأجرة محطة مترو برج خليفة / دبي مول جنوب A,برج خليفة,25.200089,55.268402,Taxi stand
+TXR_076,RTA Taxi Rank Burj Khalifa/ Dubai Mall Metro Station Landside B,Burj Khalifa,مواقف مركبات الأجرة برج خليفة / محطة مترو دبي مول جنوب B,برج خليفة,25.200639,55.269566,Taxi stand
+TXR_077,RTA Taxi Rank Business Bay Metro Station Seaside,Business Bay,مواقف مركبات الأجرة محطة مترو الخليج التجاري شمال,الخليج التجاري,25.192325,55.259923,Taxi stand
+TXR_078,RTA Taxi Rank Business Bay Metro Station Landside,Business Bay,مواقف مركبات الأجرة محطة مترو الخليج التجاري جنوب,الخليج التجاري,25.190709,55.260044,Taxi stand
+TXR_079,RTA Taxi Rank Onpassive Metro Station Seaside,Al Safa Second,مواقف مركبات الأجرة محطة مترو أون باسيف شمال,الصفا 2,25.155317,55.227051,Taxi stand
+TXR_080,RTA Taxi Rank Onpassive Metro Station Landside,Al Qouz Ind.First,مواقف مركبات الأجرة محطة مترو أون باسيف جنوب,القوز الصناعية 1,25.155397,55.228621,Taxi stand
+TXR_081,RTA Taxi Rank Equity Metro Station Seaside ,Al Quoz Industrial Area 3,مواقف مركبات الأجرة محطة مترو إكويتي شمال,القوز الصناعية 3,25.126436,55.205747,Taxi stand
+TXR_082,RTA Taxi Rank Equity Metro Station Landside,Al Quoz Industrial Area 3,مواقف مركبات الأجرة محطة مترو إكويتي جنوب,القوز الصناعية 3,25.126577,55.208186,Taxi stand
+TXR_083,RTA Taxi Rank Mall Of The Emirates Metro Station Landside,Al Barsha First,مواقف مركبات الأجرة محطة مترو مول الإمارات جنوب ,البرشاء 1,25.120161,55.201598,Taxi stand
+TXR_084,RTA Taxi Rank Mashreq Metro Station Seaside,Al Safouh First,مواقف مركبات الأجرة محطة مترو المشرق شمال,الصفوح 1,25.115386,55.190077,Taxi stand
+TXR_085,RTA Taxi Rank Mashreq Metro Station Landside,Al Barsha First,مواقف مركبات الأجرة محطة مترو المشرق جنوب,البرشاء 1,25.11459,55.191135,Taxi stand
+TXR_086,RTA Taxi Rank Dubai Internet City Metro Station Landside,Al Thanyah First,مواقف مركبات الأجرة محطة مترو مدينة دبي للإنترنت جنوب,الثنية 1,25.099459,55.172341,Taxi stand
+TXR_087,RTA Taxi Rank Dubai Internet City Metro Station Seaside,Al Thanyah First,مواقف مركبات الأجرة محطة مترو مدينة دبي للإنترنت شمال,الثنية 1,25.101936,55.171947,Taxi stand
+TXR_088,RTA Taxi Rank Al Khail Metro Station Seaside,Al Safouh Second,مواقف مركبات الأجرة محطة مترو الخيل شمال,الصفوح 2,25.089324,55.156815,Taxi stand
+TXR_089,RTA Taxi Rank Al Khail Metro Station Landside,Al Thanyah Third,مواقف مركبات الأجرة محطة مترو الخيل جنوب,الثنية 3,25.089288,55.158908,Taxi stand
+TXR_090,RTA Taxi Rank Sobha Realty Metro Station Seaside,Al Thanyah Fifth,مواقف مركبات الأجرة محطة مترو شوبا العقارية شمال,الثنية 5,25.081455,55.14712,Taxi stand
+TXR_091,RTA Taxi Rank DMCC Metro Station Seaside,Dubai Marina,مواقف مركبات الأجرة محطة مترو مركز دبي للسلع المتعددة شمال,مرسى دبي,25.071525,55.137381,Taxi stand
+TXR_092,RTA Taxi Rank Energy Metro Station Seaside,Jabal Ali Third,مواقف مركبات الأجرة محطة مترو الطاقة شمال,جبل علي 3,25.026041,55.09971,Taxi stand
+TXR_093,RTA Taxi Rank Energy Metro Station Landside,Jabal Ali First,مواقف مركبات الأجرة محطة مترو الطاقة جنوب,جبل علي 1,25.025308,55.101136,Taxi stand
+TXR_094,RTA Taxi Rank Danube Metro Station Landside,Jabal Ali Industrial First,مواقف مركبات الأجرة محطة مترو الدانوب,جبل علي الصناعية 1,25.000319,55.09595,Taxi stand
+TXR_095,RTA Taxi Rank Dubai Airport Free Zone Metro Station 1,Al Qusais First,مواقف مركبات الأجرة محطة مترو المنطقة الحرة بمطار دبي 1,القصيص 1,25.268897,55.375557,Taxi stand
+TXR_096,RTA Taxi Rank Al Qusais Metro Station 1,Al Tawar ,مواقف مركبات الأجرة محطة مترو القصيص 1,الطوار,25.262687,55.386166,Taxi stand
+TXR_097,RTA Taxi Rank Al Nahda Metro Station 1,Al Qusais First,مواقف مركبات الأجرة محطة مترو النهضة 1,القصيص 1,25.273472,55.368161,Taxi stand
+TXR_098,RTA Taxi Rank Stadium Metro Station 1,Al Qusais First,مواقف مركبات الأجرة محطة مترو الاستاد 1,القصيص 1,25.276397,55.362748,Taxi stand
+TXR_099,RTA Taxi Rank Stadium Metro Station 2,Al Qusais First,مواقف مركبات الأجرة محطة مترو الاستاد 2,القصيص 1,25.278733,55.361222,Taxi stand
+TXR_100,RTA Taxi Rank Al Qiyadah Metro Station Seaside,Al Twar First,مواقف مركبات الأجرة محطة مترو القيادة شمال,الطوار 1,25.279183,55.352021,Taxi stand
+TXR_101,RTA Taxi Rank Abu Hail Metro Station Seaside A,Hor Al Anz,مواقف مركبات الأجرة محطة مترو أبو هيل شمال A,هور العنز,25.276212,55.34732,Taxi stand
+TXR_102,RTA Taxi Rank Abu Hail Metro Station B,Hor Al Anz,مواقف مركبات الأجرة محطة مترو أبو هيل ب,هور العنز,25.27624,55.346146,Taxi stand
+TXR_103,RTA Taxi Rank Abu Hail Metro Station C,Salah Al Din Road,مواقف مركبات الأجرة محطة مترو أبو هيل ج,طريق صلاح الدين,25.275307,55.347157,Taxi stand
+TXR_104,RTA Taxi Rank Sharaf DG Metro Station B 2,Al Souq Al Kabeer,مواقف مركبات الأجرة محطة مترو شرف دي جي ب 2,السوق الكبير,25.257434,55.296989,Taxi stand
+TXR_105,RTA Taxi Rank Creek Metro Station,Al Jadaf,مواقف مركبات الأجرة محطة مترو الخور,الجداف,25.219494,55.338303,Taxi stand
+TXR_106,"RTA Taxi Rank UAE Exchange Metro Station, Seaside  (Inside Jebel Ali Port)",Jebel Ali,مواقف مركبات الأجرة محطة مترو الإمارات العربية المتحدة للصرافة شمال (داخل ميناء جبل علي),جبل علي,24.97767,55.088664,Taxi stand
+TXR_107,"RTA Taxi Rank UAE Exchange, Landside",Jebel Ali,مواقف مركبات الأجرة الإمارات العربية المتحدة للصرافة جنوب,جبل علي,24.976919,55.09116,Taxi stand
+TXR_108,RTA Taxi Rank The Palm Jumeirah,The Palm Jumeirah,مواقف مركبات الأجرة جزيرة النخلة جميرا,جزيرة النخلة جميرا,25.116871,55.136336,Taxi stand
+TXR_109,RTA Taxi Rank King Salman Bin Abdulaziz Al Soud St.,Behind Arjaan By Rotana Hotel,مواقف مركبات الأجرة شارع الملك سلمان بن عبد العزيز ال سعود,خلف فندق ارجان روتانا,25.094947,55.154394,Taxi stand
+TXR_110,RTA Taxi Rank Al Thaniya Street Barsha Heights,Al Barsha Heights,مواقف مركبات الأجرة شارع الثنية برشا هايتس,البرشاء هايتس,25.095731,55.177456,Taxi stand
+TXR_111,"RTA Taxi Rank Sama Building , Al Barsha",Al Barsha 1,"مواقف مركبات الأجرة مبنى سما ، البرشاء",البرشاء 1,25.109234,55.203023,Taxi stand
+TXR_112,RTA Taxi Rank Umm Suqeim Street,"Al Quoz, Umm Suqeim Road",مواقف مركبات الأجرة شارع ام سقيم,"القوز ، طريق أم سقيم",25.111982,55.218784,Taxi stand
+TXR_113,RTA Taxi Rank Al Khail Gate ,Inside Al Khail Gate Area,مواقف مركبات الأجرة بوابة الخيل,داخل منطقة بوابة الخيل,25.139649,55.253557,Taxi stand
+TXR_114,RTA Taxi Rank Dubai Offshore Sailing Club,Umm Squeim 1,مواقف مركبات الأجرة نادي دبي للإبحار البحري,أم سقيم 1,25.174446,55.21814,Taxi stand
+TXR_115,"RTA Taxi Rank Ghoroob, Mirdif",Mirdif Area,"مواقف مركبات الأجرة غروب ، مردف",منطقة مردف,25.211504,55.417871,Taxi stand
+TXR_116,RTA Taxi Rank Mankhool Road Near Standard Chartered Tower,Ak Mankhool Area,مواقف مركبات الأجرة طريق المنخول بالقرب من بنك ستاندرد تشارترد,منطقة أك منخول,25.25246,55.291681,Taxi stand
+TXR_117,RTA Taxi Rank Garhoud Near Millennium Airport Hotel,Al Garhoud,مواقف مركبات الأجرة القرهود بالقرب من فندق ميلينيوم المطار,القرهود,25.250201,55.344459,Taxi stand
+TXR_118,RTA Taxi Rank Deira City Center,Port Saeed,مواقف مركبات الأجرة ديرة سيتي سنتر,ميناء سعيد,25.253307,55.330206,Taxi stand
+TXR_119,"RTA Taxi Rank Khaleej Road, Waterfront Market",Corniche Deira,"مواقف مركبات الأجرة شارع الخليج ، سوق الواجهة البحرية",كورنيش ديرة,25.291471,55.323995,Taxi stand
+TXR_120,"RTA Taxi Rank Behind Sahara Center, Al Nahda 1",Al Nahda 1,"مواقف مركبات الأجرة خلف مركز صحارى ، النهدة 1",النهدة 1,25.296851,55.370199,Taxi stand
+TXR_121,"RTA Taxi Rank Near Dubai Carmel School, Al Amman Street",Al Nahda 1,"مواقف مركبات الأجرة بالقرب من مدرسة دبي كرمل ، شارع عمان",النهدة 1,25.298405,55.380486,Taxi stand
+TXR_122,RTA Taxi Rank Habtoor Ballroom Hotel,Sheikh Zayed Road,مواقف مركبات الأجرة حبتور بالاس,شارع الشيخ زايد,25.184263,55.254003,Taxi stand
+TXR_123,RTA Taxi Rank Al Mamzar ,Khaleej Street,مواقف مركبات الأجرة الممزر,شارع الخليج,25.314621,55.342397,Taxi stand
+TXR_124,"RTA Taxi Rank Mirdif, Uptown Shopping Centre",Mirdif,"مواقف مركبات الأجرة أبتاون مردف ، مركز تسوق ",مردف,25.224303,55.424004,Taxi stand
+TXR_125,RTA Taxi Rank Vida Downtown Dubai,Downtown,مواقف مركبات الأجرة فيدا داون تاون دبي,وسط المدينة,25.18993,55.27416,Taxi stand
+TXR_126,RTA Taxi Rank Shangri-La Hotel,Sheikh Zayed Road,مواقف مركبات الأجرة فندق شانغريلا,شارع الشيخ زايد,25.208492,55.272459,Taxi stand
+TXR_127,RTA Taxi Rank Gloria Hotel ,Al Sufouh 2,مواقف مركبات الأجرة فندق جلوريا,الصفوح 2,25.103122,55.17139,Taxi stand
+TXR_128,RTA Taxi Rank Grand Millennium Hotel Dubai,Barsha Heights,مواقف مركبات الأجرة فندق جراند ميلينيوم دبي,البرشاء,25.101627,55.177249,Taxi stand
+TXR_129,RTA Taxi Rank Oasis Center,Al Quoz 1,مواقف مركبات الأجرة مركز الواحة,القوز 1,25.170001,55.24116,Taxi stand
+TXR_130,RTA Taxi Rank Rashid Hospital,Umm Hurair 2,مواقف مركبات الأجرة مستشفى راشد,أم هرير 2,25.244677,55.318101,Taxi stand
+TXR_131,RTA Taxi Rank Al Maktoum International Airport,Dubai South,مواقف مركبات الأجرة مطار آل مكتوم الدولي,دبي الجنوب,24.885799,55.15677,Taxi stand
+TXR_132,RTA Taxi Rank Bollywood Parks Dubai Park & Resorts,Sheikh Zayed Rd,مواقف مركبات الأجرة بوليوود باركس دبي بارك آند ريزورتس,شارع الشيخ زايد,24.915753,55.007915,Taxi stand
+TXR_133,RTA Taxi Rank Motiongate Dubai- Dubai Parks And Resorts ,Sheikh Zayed Rd,مواقف مركبات الأجرة موشون جيت دبي - دبي باركس آند ريزورتس,شارع الشيخ زايد,24.921158,55.008388,Taxi stand
+TXR_134,RTA Taxi Rank Global Village,Global Village,مواقف مركبات الأجرة القرية العالمية,القرية العالمية,25.072645,55.306568,Taxi stand
+TXR_135,RTA Taxi Rank Lamcy Plaza,Oud Metha,مواقف مركبات الأجرة لامسي بلازا,عود ميثاء,25.234569,55.30787,Taxi stand
+TXR_136,RTA Taxi Rank Sobha Properties,Nadd Al Sheba,مواقف مركبات الأجرة عقارات شوبا,ند الشبا,25.177385,55.308565,Taxi stand
+TXR_137,RTA Taxi Rank Emirates HQ,Airport Road,مواقف مركبات الأجرة المكتب الرئيسي لمجموعة طيران الامارات,شارع المطار,25.242019,55.366098,Taxi stand
+TXR_138,RTA Taxi Rank Four Seasons Resort Dubai At Jumeirah Beav,Jumeirah Beach Road,مواقف مركبات الأجرة منتجع فور سيزونز دبي في جميرا بيف,شارع شاطئ جميرا,25.202235,55.240601,Taxi stand
+TXR_139,RTA Taxi Rank Al Ghubaiba Bus Station Backside,Al Fahidi,مواقف مركبات الأجرة محطة حافلات الغبيبة الجهة الخلفية,الفهيدي,25.261755,55.288714,Taxi stand
+TXR_140,RTA Taxi Rank Discovery Garden 1,Ibn Battuta Street,مواقف مركبات الأجرة ديسكفري جاردن 1,شارع ابن بطوطة,25.044048,55.134959,Taxi stand
+TXR_141,RTA Taxi Rank Discovery Garden 2,Ibn Battuta Street,مواقف مركبات الأجرة ديسكفري جاردن 2,شارع ابن بطوطة,25.044164,55.133608,Taxi stand
+TXR_142,RTA Taxi Rank Discovery Garden 3,Ibn Battuta Street,مواقف مركبات الأجرة ديسكفري جاردن 3,شارع ابن بطوطة,25.035241,55.145644,Taxi stand
+TXR_143,RTA Taxi Rank Discovery Garden 4,Ibn Battuta Street,مواقف مركبات الأجرة ديسكفري جاردن 4,شارع ابن بطوطة,25.034153,55.146393,Taxi stand
+TXR_144,RTA Taxi Rank Discovery Garden 5,Ibn Battuta Street,مواقف مركبات الأجرة ديسكفري جاردن 5,شارع ابن بطوطة,25.030705,55.152477,Taxi stand
+TXR_145,RTA Taxi Rank Discovery Garden 6,Ibn Battuta Street,مواقف مركبات الأجرة ديسكفري جاردن 6,شارع ابن بطوطة,25.030818,55.151135,Taxi stand
+TXR_146,RTA Taxi Rank Al Satwa Road,Al Satwa,مواقف مركبات الأجرة السطوة,السطوة,25.22778,55.273393,Taxi stand
+TXR_147,RTA Taxi Rank Oud Metha Metro Station,Near Oud Metha Bus Station,مواقف مركبات الأجرة محطة مترو عود ميثاء,بالقرب من محطة حافلات عود ميثاء,25.244288,55.313697,Taxi stand
+TXR_148,RTA Taxi Rank Souq Naif,Deira Street,مواقف مركبات الأجرة سوق نايف,شارع ديرة,25.271211,55.305302,Taxi stand
+TXR_149,RTA Taxi Rank Dusit Thani Hotel,Sheikh Zayed Service Road,مواقف مركبات الأجرة فندق دوسيت تاني,شارع الشيخ زايد,25.206799,55.272998,Taxi stand
+TXR_150,RTA Taxi Rank Carlton Downtown Hotel,Sheikh Zayed Service Road,مواقف مركبات الأجرة فندق كارلتون داون تاون,شارع الشيخ زايد,25.209235,55.274458,Taxi stand
+TXR_151,RTA Taxi Rank Grand Stay Hotel,Sheikh Zayed Service Road,مواقف مركبات الأجرة فندق جراند ستاي,شارع الشيخ زايد,25.210024,55.274986,Taxi stand
+TXR_152,RTA Taxi Rank Financial Centre Metro Station B,Sheikh Zayed Service Road,مواقف مركبات الأجرة محطة مترو المركز المالي ب,شارع الشيخ زايد,25.210274,55.276242,Taxi stand
+TXR_153,RTA Taxi Rank Rose Rayhaan By Rotana Hotel,Sheikh Zayed Service Road,مواقف مركبات الأجرة فندق روز ريحان من روتانا,شارع الشيخ زايد,25.21207,55.276378,Taxi stand
+TXR_154,RTA Taxi Rank Gevora Hotel,Sheikh Zayed Service Road,مواقف مركبات الأجرة فندق جيفورا,شارع الشيخ زايد,25.212538,55.276713,Taxi stand
+TXR_155,RTA Taxi Rank DIP Metro Station Gate2A,Green Community Village,مواقف مركبات الأجرة محطة مترو مجمع دبي للاستثمار Gate2A,قرية جرين كوميونيتي,25.005012,55.155437,Taxi stand
+TXR_156,RTA Taxi Rank Burjuman Center B,Al Mankhool ,مواقف مركبات الأجرة مركز برجمان ب,المنخول,25.252164,55.302416,Taxi stand
+TXR_157,RTA Taxi Rank IKEA - Festival Center A,Um Ramool,مواقف مركبات الأجرة ايكيا -  فستيفال سيتي أ,ام رمول,25.223393,55.35665,Taxi stand
+TXR_158,RTA Taxi Rank IKEA - Festival Center B,Um Ramool,مواقف مركبات الأجرة ايكيا - فستيفال سيتي ب,ام رمول,25.22314,55.356545,Taxi stand
+TXR_159,RTA Taxi Rank Discovery Gardens,Jabel Ali Village Discovery Gardens,مواقف مركبات الأجرة ديسكفري جاردنز,ديسكفري جاردنز قرية جبل علي,25.049114,55.127934,Taxi stand
+TXR_160,RTA Taxi Rank JLT Gold Tower,Jumeirah Lake Towers,مواقف مركبات الأجرة برج الذهب جى ال تى,أبراج بحيرة جميرا,25.069305,55.143497,Taxi stand
+TXR_161,RTA Taxi Rank Near Al Zahra Hospital,Al Barsha 1,مواقف مركبات الأجرة بالقرب من مستشفى الزهراء,البرشاء 1,25.106863,55.182029,Taxi stand
+TXR_162,RTA Taxi Rank Noora Tower,Dubai Canal Amna Tower,مواقف مركبات الأجرة برج نورة,قناة دبي,25.183572,55.256687,Taxi stand
+TXR_163,RTA Taxi Rank Deyaar Development PJSC (Sales Center),Business Bay,مواقف مركبات الأجرة ديار للتطوير ش م ع (مركز المبيعات),الخليج التجاري,25.185849,55.265272,Taxi stand
+TXR_164,RTA Taxi Rank Burj Khalifa/Dubai Mall Metro Station D,Downtown,مواقف مركبات الأجرة برج خليفة / محطة مترو دبي مول ,وسط المدينة,25.199611,55.269617,Taxi stand
+TXR_165,RTA Taxi Rank Sheraton Grand Hotel,Trade Centre 1,مواقف مركبات الأجرة فندق شيراتون جراند,المركز التجاري 1,25.2294,55.286938,Taxi stand
+TXR_166,RTA Taxi Rank Canadian Specialist Hospital,Deira,مواقف مركبات الأجرة المستشفى الكندي التخصصي,ديرة,25.277937,55.348866,Taxi stand
+TXR_167,RTA Taxi Rank Endocrinologist Dubai Prime Hospital,Garhoud,مواقف مركبات الأجرة مستشفى أخصائي الغدد الصماء دبي برايم,القرهود,25.249479,55.345593,Taxi stand
+TXR_168,RTA Taxi Rank Mediclinic Welcare Hospital,Garhoud,مواقف مركبات الأجرة مستشفى ميديكلينيك ويلكير,القرهود,25.247277,55.339583,Taxi stand
+TXR_169,RTA Taxi Rank Circle K Store Holiday Inn Hotel,Garhoud,مواقف مركبات الأجرة فندق سيركل كيه ستور هوليداي إن,القرهود,25.242223,55.360819,Taxi stand
+TXR_170,RTA Taxi Rank Dubai Residential Oasis,Al Qusais Industrial Area,مواقف مركبات الأجرة واحة دبي السكنية,منطقة القصيص الصناعية,25.282865,55.38868,Taxi stand
+TXR_171,RTA Taxi Rank Dubai Grand Hotel By Fortune,Al Qusais 1,مواقف مركبات الأجرة فندق دبي جراند من فورتشن,القصيص 1,25.273194,55.381453,Taxi stand
+TXR_172,RTA Taxi Rank Lulu Village,Muhaisnah - Muhaisnah 4,مواقف مركبات الأجرة قرية اللولو,محيصنة - محيصنة 4,25.281425,55.411293,Taxi stand
+TXR_173,RTA Taxi Rank Al Ghubaibah Taxi Station Backside,Al Fahidi,مواقف مركبات الأجرة محطة تاكسي الغبيبة الجهة الخلفية,الفهيدي,25.261776,55.28874,Taxi stand
+TXR_174,RTA Taxi Rank Internet City Al Jaddi Street,Internet City,مواقف مركبات الأجرة مدينة الإنترنت شارع الجدي,مدينة دبي للإنترنت,25.101013,55.16942,Taxi stand
+TXR_175,RTA Taxi Rank Ansar Gallery,Khalid Bin Waleed Rd,مواقف مركبات الأجرة أنصار جاليري ,شارع خالد بن الوليد,25.252236,55.309019,Taxi stand
+TXR_176,RTA Taxi Rank Dubai Frame Zabeel Park,Za'Abeel - Al Kifaf,مواقف مركبات الأجرة برواز دبي - حديقة زعبيل,زعبيل - الكفاف,25.234252,55.301575,Taxi stand
+TXR_177,RTA Taxi Rank DIP Metro Station Gate 2B,Green Community Village,مواقف مركبات الأجرة محطة مترو مجمع دبي للإستثمار بوابة 2 ب,قرية جرين كوميونيتي,25.004211,55.155189,Taxi stand
+TXR_178,RTA Taxi Rank DIP Metro Station Gate 2A,Green Community Village,مواقف مركبات الأجرة محطة مترو مجمع دبي للإستثمار بوابة 2 أ,قرية جرين كوميونيتي,25.006111,55.15568,Taxi stand
+TXR_179,RTA Taxi Rank DIP Metro Station Gate 1,Green Community Village,مواقف مركبات الأجرة محطة مترو مجمع دبي للإستثمار بوابة 1,قرية جرين كوميونيتي,25.0041,55.155572,Taxi stand
+TXR_180,RTA Taxi Rank RAK Bank Near Burjuman Metro Station,Al Hamriya,مواقف مركبات الأجرة بنك رأس الخيمة بالقرب من محطة مترو برجمان,الحمرية,25.256451,55.305663,Taxi stand
+TXR_181,RTA Taxi Rank Jebel Ali Metro Station Landside,Jebel Ali,مواقف مركبات الأجرة محطة مترو جبل علي جنوب,جبل علي,25.057292,55.127001,Taxi stand
+TXR_182,"RTA Taxi Rank Deira Palm, Night Market 1",Palm Deira,"مواقف مركبات الأجرة نخلة ديرة ، السوق الليلي 1",نخلة ديرة,25.29166,55.311688,Taxi stand
+TXR_183,RTA Taxi Rank Seniors Happiness Centre,Mamzar,مواقف مركبات الأجرة مركز سعادة كبار المواطنين,الممزر,25.298022,55.345618,Taxi stand
+TXR_184,RTA Taxi Rank Al Nahda Fitness Centre,Al Nahda,مواقف مركبات الأجرة مركز النهدة للياقة البدنية,النهدة,25.28258,55.372335,Taxi stand
+TXR_185,RTA Taxi Rank Claridge Hotel Dubai ,Deira,مواقف مركبات الأجرة فندق كلاريدج دبي,ديرة,25.270999,55.316488,Taxi stand
+TXR_186,RTA Taxi Rank Salah Al Din Metro Station 2,Deira Salah Al Din Road,مواقف مركبات الأجرة محطة مترو صلاح الدين 2,ديرة شارع صلاح الدين,25.270472,55.318509,Taxi stand
+TXR_187,RTA Taxi Rank Abu Baker Al Siddique Metro Station 1,Salah Al Din Road,مواقف مركبات الأجرة محطة مترو أبو بكر الصديق 1,شارع صلاح الدين,25.2708,55.333412,Taxi stand
+TXR_188,RTA Taxi Rank Duja Tower ,Sheikh Zayed Road,مواقف مركبات الأجرة برج دجى,شارع الشيخ زايد,25.229243,55.286041,Taxi stand
+TXR_189,RTA Taxi Rank Dubai Court Personal Status Court,Al Garhoud,مواقف مركبات الأجرة محكمة دبي للأحوال الشخصية,القرهود,25.23505,55.355183,Taxi stand
+TXR_190,RTA Taxi Rank Commercial Tower,Sheikh Zayed Road,مواقف مركبات الأجرة برج تجاري,شارع الشيخ زايد,25.221078,55.28105,Taxi stand
+TXR_191,RTA Taxi Rank DoubleTree By Hilton Jumeirah,Dubai Marina,مواقف مركبات الأجرة دبل تري من هيلتون جميرا,مرسى دبي,25.071991,55.127904,Taxi stand
+TXR_192,RTA Taxi Rank City Star Hotel,Al Barsha,مواقف مركبات الأجرة فندق سيتى ستار,البرشاء,25.109086,55.203145,Taxi stand
+TXR_193,RTA Taxi Rank Emarat Petrol HQ,Umm Amar Road,مواقف مركبات الأجرة الامارات للبترول HQ,شارع أم عمار,25.191612,55.258374,Taxi stand
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
